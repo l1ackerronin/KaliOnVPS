@@ -9,7 +9,7 @@
 #  This script correctly sets up the Kali Linux repositories, updates the        #
 #  system, and installs a list of essential penetration testing tools.           #
 #                                                                                #
-#  Author: Md Nahid Alam (@nahid0x1)                                             #
+#  Author: Nishan Faiyaz (@l1ackerronin)                                         #
 #  Date: 07-08-2025                                                              #
 #                                                                                #
 #--------------------------------------------------------------------------------#
